@@ -1,15 +1,19 @@
 # react-portfolio
 
 - Motivation
+
   This project was created as a platform to showcase my work and skills as a software developer.
 
 - Why This Was Built
+
   I built this portfolio website to provide a comprehensive view of my projects, skills, and experiences to potential employers and collaborators.
 
 - What It Solved
+
   This website serves as a centralized location where visitors can view my projects, learn about my skills, and get in touch with me.
 
 - What I Learned
+
   Through this project, I gained experience in building a responsive and interactive website using React and CSS.
 
 ## Table of Contents
@@ -61,7 +65,9 @@ To set up this project locally for development:
 ## Credits & Resources
 
 [React Router Documentation](https://reactrouter.com/)
+
 [W3Schools React Router](https://www.w3schools.com/react/react_router.asp)
+
 [React Router DOM on mpm](https://www.npmjs.com/package/react-router-dom)
 
 ## License

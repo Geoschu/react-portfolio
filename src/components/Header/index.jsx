@@ -1,10 +1,11 @@
-import coverImage from "../../assets/cover/cover-image2.jpg";
+import coverImage from "../../assets/cover/loop.png";
 
 function Header(props) {
   return (
-    <header className="flex-row space-between px-1">
-      <h1>George Schultz</h1>
-      <img src={coverImage} alt="wooden background"></img>
+    <header className="space-between px-1">
+      {/* <h1>G • e • o • r • g • e</h1>
+      <h1>S • c • h • u • l • t • z</h1> */}
+      <img src={coverImage} alt="background image"></img>
       {props.children}
     </header>
   );
