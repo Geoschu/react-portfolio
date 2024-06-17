@@ -426,6 +426,8 @@ body {
 header {
   position: relative;
   overflow: hidden;
+  background: rgba(0, 0, 0, 0.5);
+  backdrop-filter: blur(10px);
 }
 header img {
   width: 100%;
