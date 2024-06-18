@@ -15,4 +15,4 @@ export { default as regexTutorial } from "./projects/regextutorial.png";
 export { default as sociaMediaApi } from "./projects/socialmediaapi.png";
 export { default as pwaTextEditor } from "./projects/pwatexteditor.png";
 export { default as reactPortfolio } from "./projects/reactportfolio.png";
-export { default as bookSearchEngine } from "./projects/booksearchengine.png";
+export { default as creativeMicroBlog } from "./projects/creativemicroblog.png";
