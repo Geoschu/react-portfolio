@@ -107,10 +107,10 @@ function Portfolio() {
       repo: "https://github.com/Geoschu/react-portfolio",
     },
     {
-      name: "bookSearchEngine",
+      name: "creativeMicroBlog",
       description: "HTML/JavaScript/CSS",
       link: "https://onrender.com",
-      repo: "https://github.com/Geoschu/book-searchengine",
+      repo: "https://github.com/Geoschu/creativemicroblog",
     },
   ]);
 
