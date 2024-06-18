@@ -41,7 +41,7 @@
 
 ## Usage
 
-![screenshot of the site in use](assets/images/screenshot.png)
+![screenshot of the site in use](src/assets/images/screenshot.png)
 
 ## Technologies Used
 
